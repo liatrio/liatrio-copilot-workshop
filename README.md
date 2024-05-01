@@ -1,0 +1,1 @@
+# liatrio-copilot-workshop
