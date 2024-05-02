@@ -12,6 +12,11 @@
     },
     "postStartCommand": "post-start",
     "settings": {},
-    "extensions": ["hashicorp.terraform"],
+    "extensions": [
+        "hashicorp.terraform",
+        "ms-vsliveshare.vsliveshare",
+        "GitHub.copilot"
+    ],
     "remoteUser": "vscode"
   }
+  
