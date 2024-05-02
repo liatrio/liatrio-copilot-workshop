@@ -1,5 +1,5 @@
-variable "github_token" {
-    description = "GitHub access token"
-    type        = string
-    sensitive  = true
+variable "GITHUB_TOKEN" {
+  description = "GitHub access token"
+  type        = string
+  sensitive   = true
 }
