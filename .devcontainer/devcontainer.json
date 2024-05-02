@@ -13,9 +13,10 @@
     "postStartCommand": "post-start",
     "settings": {},
     "extensions": [
-        "hashicorp.terraform",
-        "ms-vsliveshare.vsliveshare",
-        "GitHub.copilot"
+      "hashicorp.terraform",
+      "ms-vsliveshare.vsliveshare",
+      "GitHub.copilot",
+      "GitHub.copilot-chat"
     ],
     "remoteUser": "vscode"
   }
