@@ -3,7 +3,7 @@ provider "github" {
   owner = "devopsdays-austin-2024"
 }
 
-resource "github_repository" "example_repo" {
+resource "github_repository" "example" {
   name        = "example-repo"
   description = "Example repository"
   visibility  = "internal"
